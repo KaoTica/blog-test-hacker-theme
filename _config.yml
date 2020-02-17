@@ -1,0 +1,11 @@
+# basic options
+title: hacker-theme blog test 02172020MON-1511pst
+author: k40t1c4
+email: k40t1c4[AT]gmail.com
+description: test of hacker theme
+twitter_username: tbd
+github_username:  KaoTica
+
+# Build settings
+markdown: kramdown
+theme: hacker
